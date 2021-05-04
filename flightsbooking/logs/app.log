@@ -1,0 +1,44 @@
+14:02:17.387 INFO  pageclasses.SearchPage -Clicked on Flights Tab
+14:02:17.406 INFO  flightsbooking.TestNG_TestSuite -Clicked on Flights tab class (info) 
+14:02:17.454 INFO  pageclasses.SearchPage -Origin text box element found
+14:02:17.757 INFO  pageclasses.SearchPage -Enter origin city as New York
+14:02:17.786 INFO  pageclasses.SearchPage -Origin search Suggestion box element found
+14:02:18.732 INFO  pageclasses.SearchPage -selected oring option from suggestion box: New York (LGA - LaGuardia)
+14:02:18.974 INFO  pageclasses.SearchPage -Destination text box element found
+14:02:19.238 INFO  pageclasses.SearchPage -Enter destination city as chicago
+14:02:19.253 INFO  pageclasses.SearchPage -destination search Suggestion box element found
+14:02:19.557 INFO  pageclasses.SearchPage -destiantion search Suggestion box element option selected: Kenosha (ENW - Kenosha Regional)
+14:02:21.991 INFO  pageclasses.SearchPage -Clicked on Search Button
+14:05:29.353 INFO  pageclasses.SearchPage -Clicked on Flights Tab
+14:05:29.359 INFO  flightsbooking.TestNG_TestSuite -Clicked on Flights tab class (info) 
+14:05:29.382 INFO  pageclasses.SearchPage -Origin text box element found
+14:05:29.703 INFO  pageclasses.SearchPage -Enter origin city as New York
+14:05:29.722 INFO  pageclasses.SearchPage -Origin search Suggestion box element found
+14:05:31.082 INFO  pageclasses.SearchPage -selected oring option from suggestion box: New York (LGA - LaGuardia)
+14:05:31.509 INFO  pageclasses.SearchPage -Destination text box element found
+14:05:31.790 INFO  pageclasses.SearchPage -Enter destination city as chicago
+14:05:31.847 INFO  pageclasses.SearchPage -destination search Suggestion box element found
+14:05:32.279 INFO  pageclasses.SearchPage -destiantion search Suggestion box element option selected: Kenosha (ENW - Kenosha Regional)
+14:05:34.708 INFO  pageclasses.SearchPage -Clicked on Search Button
+14:10:55.271 INFO  pageclasses.SearchPage -Clicked on Flights Tab
+14:10:55.277 INFO  flightsbooking.TestNG_TestSuite -Clicked on Flights tab class (info) 
+14:10:55.295 INFO  pageclasses.SearchPage -Origin text box element found
+14:10:55.537 INFO  pageclasses.SearchPage -Enter origin city as New York
+14:10:55.554 INFO  pageclasses.SearchPage -Origin search Suggestion box element found
+14:10:56.440 INFO  pageclasses.SearchPage -selected oring option from suggestion box: New York (LGA - LaGuardia)
+14:10:56.729 INFO  pageclasses.SearchPage -Destination text box element found
+14:10:56.879 INFO  pageclasses.SearchPage -Enter destination city as chicago
+14:10:56.896 INFO  pageclasses.SearchPage -destination search Suggestion box element found
+14:10:57.216 INFO  pageclasses.SearchPage -destiantion search Suggestion box element option selected: Kenosha (ENW - Kenosha Regional)
+14:10:59.299 INFO  pageclasses.SearchPage -Clicked on Search Button
+15:10:01.372 INFO  pageclasses.SearchPage -Clicked on Flights Tab
+15:10:01.379 INFO  flightsbooking.TestNG_TestSuite -Clicked on Flights tab class (info) 
+15:10:01.444 INFO  pageclasses.SearchPage -Origin text box element found
+15:10:01.719 INFO  pageclasses.SearchPage -Enter origin city as New York
+15:10:01.735 INFO  pageclasses.SearchPage -Origin search Suggestion box element found
+15:10:02.714 INFO  pageclasses.SearchPage -selected oring option from suggestion box: New York (LGA - LaGuardia)
+15:10:02.986 INFO  pageclasses.SearchPage -Destination text box element found
+15:10:03.302 INFO  pageclasses.SearchPage -Enter destination city as chicago
+15:10:03.338 INFO  pageclasses.SearchPage -destination search Suggestion box element found
+15:10:03.817 INFO  pageclasses.SearchPage -destiantion search Suggestion box element option selected: Kenosha (ENW - Kenosha Regional)
+15:10:06.671 INFO  pageclasses.SearchPage -Clicked on Search Button
